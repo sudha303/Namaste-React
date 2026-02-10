@@ -13,6 +13,6 @@ const parent = React.createElement(
            
 );
 
-console.log(parent);
+console.log(parent,'hello');
 const root =ReactDOM.createRoot(document.getElementById("root"));
 root.render(parent);
